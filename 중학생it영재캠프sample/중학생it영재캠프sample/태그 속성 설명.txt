@@ -1,0 +1,24 @@
+
+참고: https://www.w3schools.com/w3css/w3css_layout.asp
+class 속성
+	w3-row	: 행
+	w3-cell	: 열
+	w3-cell-row	: 한줄 짜리 행
+style 속성
+	background-image	: 그림파일 경로
+	background-size	: 그림크기
+	background-repeat	: 그림반복
+	height	: 높이
+	color	: 글자색
+	padding	: 여유공간
+
+	border	: 테두리
+	position		: 위치 지정방법 설정하기
+	top		: 위 위치
+	right		: 오른쪽 위치
+	bottom		: 아래 위치
+	left		: 왼쪽 위치
+	text-align		: 텍스트 정렬
+
+fontawesome.com
+	<i class="fa fa-camera">
