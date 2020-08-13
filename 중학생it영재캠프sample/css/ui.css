@@ -75,7 +75,7 @@ footer > a.instar:hover{background:url(../images/social_b_instar_hover.png) no-r
 #container #menu4:after{content:"Mirims";}
 #container .content .conbox:before{content:"";display:block; position:absolute;}                                                     /*대문 이미지 수정*/
 #container #menu1 .conbox:before{background:url(../images/main_01.JPG) no-repeat; width:100%; height:100%; background-size:100%;} 
-#container #menu2 .conbox:before{background:url(../images/main_03.jsp) no-repeat; width:100%; height:100%;  background-size:100%;} 
+#container #menu2 .conbox:before{background:url(../images/mian_02.JPG) no-repeat; width:100%; height:100%;  background-size:100%;} 
 #container #menu3 .conbox:before{background:url(../images/main3.JPG) no-repeat; width:100%; height:100%;  background-size:100%;} 
 #container #menu4 .conbox:before{background:url(../images/main_4.png) no-repeat; width:100%; height:100%;  background-size:100%;}
 /*영역 전후 구분하기*/
